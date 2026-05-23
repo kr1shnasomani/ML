@@ -15,8 +15,9 @@ Traditional and deep learning-based image/video processing techniques.
 * **[OrthoVision](./OrthoVision):** Bone fracture detection from X-ray images using EfficientNetB3 via transfer learning.
 * **[FireFinder](./FireFinder):** Fire detection from images using transfer learning with ResNet50.
 
-### 🧠 Deep Learning & NLP
-Audio processing, sequence models, and text processing.
+### 🧠 Deep Learning, NLP & Predictive Modeling
+Audio processing, sequence models, text processing, and tabular data analysis.
+* **[CreditWise](./CreditWise):** Predicting credit card default probabilities using classification algorithms (XGBoost, LightGBM, Random Forest).
 * **[ToneSense](./ToneSense):** Audio feature extraction (MFCCs) and emotion classification using a TensorFlow deep learning model.
 * **[SentimentScope](./SentimentScope):** Text classification of IMDb movie reviews using LSTM networks and GloVe embeddings.
 * **[FilmFinder](./FilmFinder):** Content-based movie recommendation engine utilizing NLP feature extraction (`CountVectorizer`, `TfidfVectorizer`) and cosine similarity.
